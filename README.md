@@ -22,6 +22,6 @@ A CTF Player
 [![](https://visitcount.itsvg.in/api?id=harish-pushan&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harish-pushan&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harish-pushan)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
